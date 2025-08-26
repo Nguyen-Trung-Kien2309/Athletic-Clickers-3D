@@ -1,0 +1,30 @@
+{
+    "score": 783935,
+    "buyCost": 250,
+    "upgradeCost": 150,
+    "incomeCost": 250,
+    "sizeUpThreshold": 9000,
+    "unlockedTracks": 4,
+    "characters": [
+        {
+            "trackIndex": 0,
+            "characterLevel": 1
+        },
+        {
+            "trackIndex": 0,
+            "characterLevel": 1
+        },
+        {
+            "trackIndex": 0,
+            "characterLevel": 1
+        },
+        {
+            "trackIndex": 1,
+            "characterLevel": 2
+        },
+        {
+            "trackIndex": 1,
+            "characterLevel": 2
+        }
+    ]
+}

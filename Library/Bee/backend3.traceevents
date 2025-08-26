@@ -1,0 +1,557 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1744179375762818, "dur":64, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744179375762920, "dur":54859, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744179375817784, "dur":334, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744179375818186, "dur":363, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744179375818807, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/level4" }}
+,{ "pid":12345, "tid":0, "ts":1744179375818929, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1744179375819020, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1744179375819430, "dur":119, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":0, "ts":1744179375820165, "dur":142, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744179375821100, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744179375822366, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744179375822883, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744179375823386, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744179375823452, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744179375823519, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744179375823581, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744179375823637, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744179375823769, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744179375823894, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744179375824907, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744179375825590, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1744179375818575, "dur":7673, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744179375826250, "dur":4464283, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744179380290614, "dur":255, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744179380291133, "dur":19486, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1744179375819002, "dur":7262, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744179375830488, "dur":81, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"Assets/StreamingAssets" }}
+,{ "pid":12345, "tid":1, "ts":1744179375830569, "dur":2260, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.42f1/Editor/Data/il2cpp/build/deploy" }}
+,{ "pid":12345, "tid":1, "ts":1744179375832829, "dur":10316, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.42f1/Editor/Data/il2cpp/libil2cpp" }}
+,{ "pid":12345, "tid":1, "ts":1744179375843146, "dur":118, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.42f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport" }}
+,{ "pid":12345, "tid":1, "ts":1744179375843264, "dur":1566, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.42f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono" }}
+,{ "pid":12345, "tid":1, "ts":1744179375844830, "dur":100, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.42f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/Data/Resources" }}
+,{ "pid":12345, "tid":1, "ts":1744179375844930, "dur":262, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.42f1/Editor/Data/Tools/BuildPipeline" }}
+,{ "pid":12345, "tid":1, "ts":1744179375845192, "dur":186, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"Library/PlayerDataCache/Win642/Data" }}
+,{ "pid":12345, "tid":1, "ts":1744179375826267, "dur":19164, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744179375845441, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/3001701395444577415.rsp" }}
+,{ "pid":12345, "tid":1, "ts":1744179375845508, "dur":160, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744179375845681, "dur":2002, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker C:/Users/ACER/Graphic/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":1, "ts":1744179375847685, "dur":3766, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744179375857912, "dur":189229, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179375857847, "dur":189298, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179376047184, "dur":3001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179376050355, "dur":263667, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179376050190, "dur":263834, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179376314070, "dur":13145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179376327434, "dur":271668, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179376327222, "dur":271883, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179376599121, "dur":168, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744179376603414, "dur":119, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744179376599299, "dur":4261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179376603770, "dur":125720, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179376603565, "dur":125928, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179376734090, "dur":76, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744179376729541, "dur":4649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179376734324, "dur":446594, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179376734195, "dur":446726, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179377180973, "dur":3756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179377185014, "dur":441733, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179377184735, "dur":442014, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179377626802, "dur":4326, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179377631269, "dur":257553, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179377631133, "dur":257692, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179377888870, "dur":18937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179377907966, "dur":664723, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179377907813, "dur":664878, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179378572733, "dur":8080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179378580999, "dur":251178, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179378580821, "dur":251359, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179378832229, "dur":5255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179378837627, "dur":340490, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179378837490, "dur":340630, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179379185289, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744179379178158, "dur":7215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179379186238, "dur":161165, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179379185383, "dur":162023, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179379347453, "dur":5738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179379353412, "dur":674289, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179379353197, "dur":674507, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179380027774, "dur":32567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179380060581, "dur":88961, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179380060349, "dur":89195, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179380149592, "dur":17944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744179380167541, "dur":122837, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179375819064, "dur":7210, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179375826281, "dur":1715, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179375827997, "dur":1995, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179375829993, "dur":1729, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179375831723, "dur":1650, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179375833373, "dur":1919, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179375835293, "dur":10184, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179375845478, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1744179375845628, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1744179375845818, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1744179375845932, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1744179375846171, "dur":11676, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179375857916, "dur":417812, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179375857848, "dur":417882, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179376280065, "dur":102, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179376275823, "dur":4371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179376280465, "dur":158450, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179376280200, "dur":158717, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179376438931, "dur":111, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179376460840, "dur":194, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179376439061, "dur":22022, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179376461251, "dur":180695, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179376461102, "dur":180847, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179376641968, "dur":291, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179376642281, "dur":2689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179376645090, "dur":126707, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179376644976, "dur":126823, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179376771817, "dur":71, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179376771922, "dur":3353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179376775400, "dur":296596, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179376775282, "dur":296717, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179377072018, "dur":299, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179377091990, "dur":223, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179377072330, "dur":19908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179377092430, "dur":79421, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179377092243, "dur":79611, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179377171873, "dur":283, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179377178918, "dur":91, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179377172177, "dur":6863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179377179284, "dur":1017501, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179377179046, "dur":1017744, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179378196822, "dur":115, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179378204881, "dur":191, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179378196947, "dur":8151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179378205245, "dur":351527, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179378205103, "dur":351673, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179378563025, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179378556828, "dur":6367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179378563329, "dur":114719, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179378563200, "dur":114851, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179378678134, "dur":72, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179379003014, "dur":99, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179378678216, "dur":324985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179379003372, "dur":154214, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179379003228, "dur":154361, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179379157606, "dur":81, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179379166466, "dur":106, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179379157697, "dur":8975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179379166889, "dur":99082, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179379166678, "dur":99297, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179379266004, "dur":122, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179379298907, "dur":160, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179379266141, "dur":32957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179379299476, "dur":79016, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179379299104, "dur":79390, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179379382892, "dur":178, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179379378539, "dur":4559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179379383258, "dur":87465, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179379383103, "dur":87623, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179379470789, "dur":193, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179379470991, "dur":5619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179379476742, "dur":197205, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179379476615, "dur":197334, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179379673964, "dur":63, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179379678459, "dur":78, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179379674035, "dur":4623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179379678816, "dur":68128, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179379678662, "dur":68284, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179379746961, "dur":70, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179379747039, "dur":9605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179379756841, "dur":67315, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179379756650, "dur":67509, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179379824181, "dur":150, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744179379824383, "dur":5121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179379829707, "dur":71746, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179379829511, "dur":71945, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179379901505, "dur":36984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179379938642, "dur":205952, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179379938496, "dur":206100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179380144640, "dur":13631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744179380158275, "dur":132023, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744179375819118, "dur":7169, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744179375826290, "dur":2016, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744179375828307, "dur":1913, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744179375831191, "dur":771, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.42f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Data.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179375830221, "dur":2388, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744179375832610, "dur":1693, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744179375834304, "dur":2448, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744179375836753, "dur":8693, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744179375845476, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1744179375845604, "dur":240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1744179375845865, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179375845970, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179375846168, "dur":11681, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744179375857928, "dur":396928, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179375857851, "dur":397008, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179376254874, "dur":276, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744179376262873, "dur":95, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744179376255182, "dur":7809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179376263489, "dur":109986, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179376262997, "dur":110481, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179376373493, "dur":286, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744179376373796, "dur":14465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179376388407, "dur":341786, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179376388268, "dur":341928, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179376730211, "dur":62, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744179376730284, "dur":4894, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179376735348, "dur":111672, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179376735184, "dur":111839, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179376847039, "dur":189, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744179376857476, "dur":174, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744179376848611, "dur":9073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179376857853, "dur":122399, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179376857688, "dur":122567, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179376980351, "dur":189, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744179376993302, "dur":252, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744179376980550, "dur":13051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179376993769, "dur":372179, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179376993607, "dur":372344, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179377365997, "dur":2733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179377368885, "dur":164819, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179377368737, "dur":164970, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179377739776, "dur":242, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744179377533758, "dur":206303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179377740232, "dur":108841, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179377740066, "dur":109010, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179377849118, "dur":4958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179377854213, "dur":484498, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179377854082, "dur":484641, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179378342619, "dur":122, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744179378338769, "dur":4132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179378343084, "dur":330415, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179378342906, "dur":330595, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179378673517, "dur":440, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744179378673967, "dur":18072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179378692156, "dur":387953, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179378692045, "dur":388067, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179379080127, "dur":108, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744179379080253, "dur":7181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179379087617, "dur":308010, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179379087441, "dur":308188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179379395645, "dur":69, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744179379416516, "dur":92, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744179379395723, "dur":20992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179379416922, "dur":164168, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179379416721, "dur":164372, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179379581110, "dur":82, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744179379593665, "dur":87, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744179379581201, "dur":12598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179379593956, "dur":425262, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179379593816, "dur":425404, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179380043493, "dur":86, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744179380019461, "dur":24386, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179380043994, "dur":216671, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179380043852, "dur":216817, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179380260714, "dur":2664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744179380263383, "dur":26757, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744179375819154, "dur":7142, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744179375826300, "dur":1658, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744179375827959, "dur":2006, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744179375830759, "dur":766, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.42f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179375829965, "dur":2265, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744179375832231, "dur":1670, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744179375833902, "dur":2044, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744179375835947, "dur":9529, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744179375845477, "dur":185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1744179375845688, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1744179375845804, "dur":116, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1744179375845921, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic.exe" }}
+,{ "pid":12345, "tid":4, "ts":1744179375846159, "dur":11721, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744179375857965, "dur":101237, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179375857881, "dur":101324, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179375962960, "dur":37678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179376000862, "dur":621889, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179376000644, "dur":622110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179376622799, "dur":50384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179376673374, "dur":123422, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179376673189, "dur":123610, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179376845857, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744179376796848, "dur":49087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179376846062, "dur":335878, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179376845940, "dur":336002, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179377259685, "dur":101, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744179377182029, "dur":77784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179377261509, "dur":817946, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179377259818, "dur":819639, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179378079489, "dur":3677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179378084231, "dur":380722, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179378083294, "dur":381662, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179378468427, "dur":822, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744179378464997, "dur":4280, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179378469488, "dur":168780, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179378469282, "dur":168989, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179378638312, "dur":2720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179378641303, "dur":132555, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179378641037, "dur":132824, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179378773915, "dur":13961, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179378788036, "dur":73837, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179378787883, "dur":74001, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179378861950, "dur":128397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179378990541, "dur":190039, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179378990354, "dur":190228, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179379180625, "dur":11857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179379192611, "dur":150770, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179379192488, "dur":150896, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179379351599, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744179379343485, "dur":8204, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179379352016, "dur":715605, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179379351695, "dur":715929, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179380067684, "dur":7524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744179380075214, "dur":215287, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744179375819195, "dur":7113, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744179375826312, "dur":1721, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744179375828034, "dur":2218, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744179375830253, "dur":2116, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744179375832370, "dur":1907, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744179375834278, "dur":1827, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744179375836105, "dur":9328, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744179375845441, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":5, "ts":1744179375845492, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744179375845576, "dur":1510, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1744179375847088, "dur":110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744179375847248, "dur":10630, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744179375857955, "dur":125703, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179375857879, "dur":125782, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179375983801, "dur":8323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179375992281, "dur":245238, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179375992130, "dur":245392, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179376237567, "dur":7127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179376245399, "dur":385969, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179376244726, "dur":386645, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179376631423, "dur":8067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179376639809, "dur":94105, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179376639497, "dur":94420, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179376733934, "dur":522, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744179376788975, "dur":112, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744179376734467, "dur":54732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179376789330, "dur":194170, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179376789204, "dur":194299, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179376983653, "dur":11043, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179376994825, "dur":179330, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179376994702, "dur":179456, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179377174209, "dur":168394, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179377342820, "dur":123108, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179377342608, "dur":123322, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179377539824, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744179377465981, "dur":74001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179377540443, "dur":538750, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179377540009, "dur":539187, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179378079239, "dur":4754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179378084136, "dur":255887, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179378083998, "dur":256030, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179378340435, "dur":5140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179378345924, "dur":163918, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179378345581, "dur":164264, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179378509916, "dur":3267, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179378513334, "dur":88536, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179378513189, "dur":88685, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179378601933, "dur":19284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179378621390, "dur":143965, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179378621222, "dur":144136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179378765449, "dur":5931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179378771528, "dur":146477, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179378771386, "dur":146622, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179378918053, "dur":73616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179378991859, "dur":324538, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179378991677, "dur":324723, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179379316449, "dur":3722, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179379320351, "dur":374424, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179379320177, "dur":374601, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179379694823, "dur":3111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179379698069, "dur":254986, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179379697940, "dur":255119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179379993749, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744179379953116, "dur":40713, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179379994060, "dur":122411, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179379993834, "dur":122640, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179380116527, "dur":7682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744179380124214, "dur":166183, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744179375819239, "dur":7078, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744179375826320, "dur":1695, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744179375828016, "dur":1896, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744179375829913, "dur":1548, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744179375831462, "dur":1585, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744179375833048, "dur":1642, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744179375834691, "dur":10745, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744179375845441, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1744179375845597, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1744179375845683, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1744179375845779, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1744179375845848, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179375845948, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744179375846155, "dur":11776, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744179375858032, "dur":246009, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179375857931, "dur":246113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179376104061, "dur":175, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744179376104284, "dur":3375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179376107800, "dur":200172, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179376107664, "dur":200310, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179376307989, "dur":159, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744179376308167, "dur":22221, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179376330526, "dur":218569, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179376330394, "dur":218704, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179376549143, "dur":7689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179376556970, "dur":143338, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179376556839, "dur":143472, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179376700329, "dur":113, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744179376700453, "dur":16028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179376716635, "dur":160820, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179376716489, "dur":160969, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179376877475, "dur":74, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744179376944772, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744179376877559, "dur":67289, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179376944999, "dur":260729, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179376944853, "dur":260878, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179377205748, "dur":325, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744179377210670, "dur":138, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744179377206093, "dur":4752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179377211033, "dur":511957, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Splines.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179377210872, "dur":512121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Unity.Splines.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179377723009, "dur":80, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744179377723098, "dur":18242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Unity.Splines.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179377741480, "dur":656156, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Cinemachine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179377741346, "dur":656293, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Unity.Cinemachine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179378397656, "dur":77, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744179378409362, "dur":82, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744179378397743, "dur":11752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Unity.Cinemachine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179378409947, "dur":632073, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179378409500, "dur":632528, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179379042040, "dur":66, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744179379046307, "dur":281, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744179379042114, "dur":4519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179379046854, "dur":115383, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179379046641, "dur":115599, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179379162259, "dur":285, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744179379162555, "dur":19246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179379181965, "dur":194579, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179379181814, "dur":194734, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179379376572, "dur":432, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744179379388966, "dur":295, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744179379377018, "dur":12298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179379389499, "dur":218336, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179379389321, "dur":218517, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179379607854, "dur":211, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744179379613727, "dur":85, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744179379608094, "dur":5743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179379614057, "dur":574625, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179379613842, "dur":574843, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179380188736, "dur":3805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744179380192546, "dur":97714, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744179375819273, "dur":7054, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744179375826330, "dur":1651, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744179375827982, "dur":2045, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744179375830028, "dur":1932, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744179375831961, "dur":1598, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744179375833560, "dur":1946, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744179375835507, "dur":9971, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744179375845479, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1744179375845612, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1744179375845698, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1744179375845845, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1744179375845944, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1744179375846189, "dur":11670, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744179375857966, "dur":208636, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179375857864, "dur":208740, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179376066627, "dur":92, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744179376066770, "dur":6596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179376073560, "dur":196308, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179376073373, "dur":196498, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179376269916, "dur":5127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179376275160, "dur":101116, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179376275049, "dur":101229, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179376376295, "dur":492, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744179376383069, "dur":85, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744179376376798, "dur":6382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179376383345, "dur":89504, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179376383184, "dur":89667, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179376472865, "dur":73, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744179376472947, "dur":5990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179376479086, "dur":261756, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179376478944, "dur":261901, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179376740863, "dur":160, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744179376746313, "dur":85, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744179376741034, "dur":5389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179376746573, "dur":95393, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179376746428, "dur":95541, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179376841989, "dur":92, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744179376880397, "dur":78, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744179376842103, "dur":38581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179376880854, "dur":959913, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179376880689, "dur":960081, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179377840815, "dur":2940, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179377843943, "dur":368304, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179377843760, "dur":368490, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179378212268, "dur":196, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744179378212475, "dur":11615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179378224251, "dur":348157, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179378224105, "dur":348306, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179378572427, "dur":70, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744179378572506, "dur":17254, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179378590179, "dur":610584, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179378589767, "dur":610998, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179379200823, "dur":6402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179379207545, "dur":264915, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179379207235, "dur":265227, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179379472475, "dur":211, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744179379472702, "dur":4230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179379477030, "dur":143304, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179379476935, "dur":143403, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179379620359, "dur":83, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744179379626142, "dur":77, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744179379620487, "dur":5854, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179379626457, "dur":68541, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179379626346, "dur":68654, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179379710100, "dur":84, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744179379695053, "dur":15182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179379710397, "dur":102566, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179379710240, "dur":102725, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179379813009, "dur":3025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179379816217, "dur":82052, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179379816040, "dur":82232, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179379898395, "dur":16789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179379915370, "dur":103822, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179379915193, "dur":104002, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179380028445, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744179380019244, "dur":9579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179380028972, "dur":256497, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179380028829, "dur":256643, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744179380285518, "dur":4551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744179375819295, "dur":7044, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744179375826339, "dur":1659, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744179375827999, "dur":2114, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744179375830114, "dur":1516, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744179375831631, "dur":1683, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744179375833315, "dur":2112, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744179375835428, "dur":10007, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744179375845456, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744179375845607, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1744179375845732, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1744179375845840, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1744179375845960, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/D3D12/D3D12Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744179375846054, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744179375846106, "dur":58, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":8, "ts":1744179375846165, "dur":11714, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744179375857956, "dur":929480, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\mscorlib.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744179375857880, "dur":929559, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744179376787453, "dur":232, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744179376787727, "dur":56293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744179376844156, "dur":337119, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744179376844026, "dur":337251, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744179377181314, "dur":4153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744179377185628, "dur":1161957, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744179377185472, "dur":1162115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744179378347635, "dur":7208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744179378355209, "dur":770784, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744179378354850, "dur":771145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744179379126039, "dur":4797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744179379130989, "dur":940926, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744179379130841, "dur":941078, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744179380071972, "dur":5399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ProjectGame/Athletic-Clickers 3D/Wed/Th muc mi/Graphic_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744179380077376, "dur":213122, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744179380326464, "dur":10995, "ph":"X", "name": "ProfilerWriteOutput" }
+,
